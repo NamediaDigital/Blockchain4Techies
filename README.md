@@ -36,7 +36,7 @@ A list of resources for technical people
 - [ganache](https://github.com/trufflesuite/ganache) - (alpha) TestRPC gui and more
 - [INFURA](https://infura.io/) - Provider of remote Ethereum and IPFS nodes.
 - [uPort](https://github.com/uport-project) - Digital identity, reputation
-- [embark-framework](https://github.com/iurimatias/embark-framework)
+- [embark-framework](https://github.com/iurimatias/embark-framework) - Framework for serverless Decentralized Applications using Ethereum, IPFS and other platforms
 - [zeppelin-solidity](https://github.com/OpenZeppelin/zeppelin-solidity)
 - [MetaMask](https://metamask.io/) - A Chrome browser extension that manages keys and enables web-applications to interact with any ethereum blockchain network.
 - [MetaMascara](https://www.npmjs.com/package/metamascara) - (alpha) MetaMask for non-MetaMask browser
@@ -50,3 +50,4 @@ A list of resources for technical people
 - [Lightwallet](https://github.com/ConsenSys/eth-lightwallet) - One implementation of an Ethereum JavaScript wallet.
 - [ethereumjs-wallet](https://github.com/ethereumjs/ethereumjs-wallet) - Another alternate implementation of an Ethereum wallet.
 - [Storj](https://storj.io/developers.html) - Blockchain-based, end-to-end encrypted, distributed object storage, the future of cloud storage
+- [IPFS](https://ipfs.io/) - IPFS is the Distributed Web, a peer-to-peer hypermedia protocol to make the web faster, safer, and more open.
