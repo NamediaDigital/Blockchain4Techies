@@ -40,6 +40,7 @@ A list of resources for technical people
 - [zeppelin-solidity](https://github.com/OpenZeppelin/zeppelin-solidity)
 - [MetaMask](https://metamask.io/) - A Chrome browser extension that manages keys and enables web-applications to interact with any ethereum blockchain network.
 - [MetaMascara](https://www.npmjs.com/package/metamascara) - (alpha) MetaMask for non-MetaMask browser
+- [Mist](https://github.com/ethereum/mist) - The Mist browser is the tool of choice to browse and use Ðapps.
 - [ConsenSys/Tokens](https://github.com/ConsenSys/Tokens)
 - [ConsenSys/smart-contract-best-practices](https://github.com/ConsenSys/smart-contract-best-practices)
 - [PLCRVoting](https://github.com/ConsenSys/PLCRVoting) - Efficient voting protocol smart contracts utilizing ERC20 Tokens
