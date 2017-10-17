@@ -48,3 +48,4 @@ A comprehensive list of resources for technical people
 - [bn.js](https://github.com/indutny/bn.js) - BigNumber.js alternative (lighter)
 - [Lightwallet](https://github.com/ConsenSys/eth-lightwallet) - One implementation of an Ethereum JavaScript wallet.
 - [ethereumjs-wallet](https://github.com/ethereumjs/ethereumjs-wallet) - Another alternate implementation of an Ethereum wallet.
+- [Storj](https://storj.io/index.html) - Blockchain-based, end-to-end encrypted, distributed object storage, the future of cloud storage
