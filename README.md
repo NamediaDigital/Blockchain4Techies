@@ -1,5 +1,5 @@
 # Blockchain4Techies
-A comprehensive list of resources for technical people
+A list of resources for technical people
 
 ## Ethereum Training Materials
 
