@@ -29,6 +29,7 @@ A list of resources for technical people
 
 - [Ethereum Web3 JavaScript API](https://github.com/ethereum/wiki/wiki/JavaScript-API) - The API used by web applications to access the Ethereum blockchain.
 - [Remix](https://remix.ethereum.org) - Solidity IDE
+- [https://ethereum.github.io/browser-solidity](https://ethereum.github.io/browser-solidity) - This is a browser-based Solidity editor. It allows you to deploy contracts and interact with contracts.
 - [web3.js](https://github.com/ethereum/web3.js) - Ethereum-JavaScript library
 - [Ethjs](https://github.com/ethjs/ethjs) - Ethereum-JavaScript library (lightweight, optimized)
 - [testrpc](https://github.com/ethereumjs/testrpc) - A simulated blockchain for fast testing and iteration.
