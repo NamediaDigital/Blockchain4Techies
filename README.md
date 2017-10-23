@@ -33,8 +33,8 @@ A list of resources for technical people
 - [Ethjs](https://github.com/ethjs/ethjs) - Ethereum-JavaScript library (lightweight, optimized)
 - [testrpc](https://github.com/ethereumjs/testrpc) - A simulated blockchain for fast testing and iteration.
 - [truffle](https://github.com/trufflesuite/truffle) - A development environment, testing framework, and asset pipeline for Ethereum.
-- [Dappsys] (https://dapp.tools/dappsys/) - Small, modular systems for deploying Solidity.
-- [OpenZeppelin] (https://openzeppelin.org/) - A suite of common, reusable smart contracts.
+- [Dappsys](https://dapp.tools/dappsys/) - Small, modular systems for deploying Solidity.
+- [OpenZeppelin](https://openzeppelin.org/) - A suite of common, reusable smart contracts.
 - [zeppelin-solidity](https://github.com/OpenZeppelin/zeppelin-solidity)
 - [ganache](https://github.com/trufflesuite/ganache) - (alpha) TestRPC gui and more
 - [INFURA](https://infura.io/) - Provider of remote Ethereum and IPFS nodes.
