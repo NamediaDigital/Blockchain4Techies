@@ -33,11 +33,13 @@ A list of resources for technical people
 - [Ethjs](https://github.com/ethjs/ethjs) - Ethereum-JavaScript library (lightweight, optimized)
 - [testrpc](https://github.com/ethereumjs/testrpc) - A simulated blockchain for fast testing and iteration.
 - [truffle](https://github.com/trufflesuite/truffle) - A development environment, testing framework, and asset pipeline for Ethereum.
+- [Dappsys] (https://dapp.tools/dappsys/) - Small, modular systems for deploying Solidity.
+- [OpenZeppelin] (https://openzeppelin.org/) - A suite of common, reusable smart contracts.
+- [zeppelin-solidity](https://github.com/OpenZeppelin/zeppelin-solidity)
 - [ganache](https://github.com/trufflesuite/ganache) - (alpha) TestRPC gui and more
 - [INFURA](https://infura.io/) - Provider of remote Ethereum and IPFS nodes.
 - [uPort](https://github.com/uport-project) - Digital identity, reputation
 - [embark-framework](https://github.com/iurimatias/embark-framework) - Framework for serverless Decentralized Applications using Ethereum, IPFS and other platforms
-- [zeppelin-solidity](https://github.com/OpenZeppelin/zeppelin-solidity)
 - [MetaMask](https://metamask.io/) - A Chrome browser extension that manages keys and enables web-applications to interact with any ethereum blockchain network.
 - [MetaMascara](https://www.npmjs.com/package/metamascara) - (alpha) MetaMask for non-MetaMask browser
 - [Mist](https://github.com/ethereum/mist) - The Mist browser is the tool of choice to browse and use Ðapps.
