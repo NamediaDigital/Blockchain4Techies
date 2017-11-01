@@ -4,6 +4,7 @@ A list of resources for technical people
 ## Bitcoin
 - [The Bitcoin Foundation](https://bitcoinfoundation.org/)
 - [Bitcoin White Paper](https://bitcoin.org/bitcoin.pdf)
+- [BitcoinCash](https://www.bitcoincash.org/)
 
 ## Ethereum
 - [Ethereum Foundation](https://ethereum.org/)
