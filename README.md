@@ -1,8 +1,11 @@
 # Blockchain4Techies
 A list of resources for technical people
 
-## Ethereum Training Materials
+## Bitcoin
+- [White Paper](https://bitcoin.org/bitcoin.pdf)
 
+## Ethereum
+- [White Paper](https://github.com/ethereum/wiki/wiki/White-Paper)
 - [Dapps 101: How do I start developing on Ethereum?](https://blog.andreacoravos.com/dapps-101-how-do-i-start-developing-on-ethereum-da0d38ed973f)
 - [Build your own crypto-currency with Ethereum](https://www.ethereum.org/token)
 - [Raise funds from friends without a third party](https://www.ethereum.org/crowdsale)
@@ -25,7 +28,7 @@ A list of resources for technical people
 - [Getting started with Ethereum & Solidity on Windows — part 1](https://medium.com/@wslyvh/get-started-with-ethereum-solidity-on-windows-1672e9953a1)
 - [Getting started with Ethereum, Solidity & Geth — part 2](https://medium.com/@wslyvh/getting-started-with-ethereum-solidity-geth-part-2-d195144fe6c7)
 
-## Developer Tools
+### Developer Tools
 
 - [Ethereum Web3 JavaScript API](https://github.com/ethereum/wiki/wiki/JavaScript-API) - The API used by web applications to access the Ethereum blockchain.
 - [Remix](https://remix.ethereum.org) - Solidity IDE
