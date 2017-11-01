@@ -2,9 +2,11 @@
 A list of resources for technical people
 
 ## Bitcoin
-- [White Paper](https://bitcoin.org/bitcoin.pdf)
+- [The Bitcoin Foundation](https://bitcoinfoundation.org/)
+- [Bitcoin White Paper](https://bitcoin.org/bitcoin.pdf)
 
 ## Ethereum
+- [Ethereum Foundation](https://ethereum.org/)
 - [White Paper](https://github.com/ethereum/wiki/wiki/White-Paper)
 - [Dapps 101: How do I start developing on Ethereum?](https://blog.andreacoravos.com/dapps-101-how-do-i-start-developing-on-ethereum-da0d38ed973f)
 - [Build your own crypto-currency with Ethereum](https://www.ethereum.org/token)
