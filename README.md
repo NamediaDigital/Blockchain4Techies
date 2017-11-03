@@ -65,3 +65,6 @@ A list of resources for technical people
 - [Storj](https://storj.io/developers.html) - Blockchain-based, end-to-end encrypted, distributed object storage, the future of cloud storage
 - [IPFS](https://ipfs.io/) - IPFS is the Distributed Web, a peer-to-peer hypermedia protocol to make the web faster, safer, and more open.
 - [Oraclize](http://www.oraclize.it/) - blockchain oracle service, enabling data-rich smart contracts.
+
+## ICOs
+- [Recommendations on structuring ICOs by Vitalik Buterin](https://people.cs.uchicago.edu/~teutsch/papers/ico.pdf)
