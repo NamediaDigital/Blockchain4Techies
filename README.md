@@ -34,6 +34,7 @@ A list of resources for technical people
 - [Learning to Code in Ethereum](https://www.reddit.com/r/ethereum/comments/4z4y81/any_advice_on_learning_to_code_in_ethereum/)
 - [Getting started with Ethereum & Solidity on Windows — part 1](https://medium.com/@wslyvh/get-started-with-ethereum-solidity-on-windows-1672e9953a1)
 - [Getting started with Ethereum, Solidity & Geth — part 2](https://medium.com/@wslyvh/getting-started-with-ethereum-solidity-geth-part-2-d195144fe6c7)
+- [Blockchain at Berkeley: Scalability](https://docs.google.com/document/d/12w7rAEQUSFd6NbLr6dUxJcLbF70YHcnzhG6mHZQjYCA/edit)
 
 ### Developer Tools
 
